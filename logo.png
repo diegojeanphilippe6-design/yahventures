@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yah Ventures | Coming Soon</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,Helvetica,sans-serif;
+}
+
+body{
+background:#0b0b0b;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+text-align:center;
+padding:20px;
+}
+
+.container{
+max-width:850px;
+}
+
+img{
+width:220px;
+margin-bottom:30px;
+}
+
+h1{
+font-size:58px;
+letter-spacing:8px;
+margin-bottom:10px;
+}
+
+.gold{
+color:#D4AF37;
+}
+
+.green{
+color:#00B36B;
+}
+
+.tagline{
+font-size:22px;
+margin-bottom:30px;
+letter-spacing:2px;
+}
+
+.description{
+font-size:20px;
+color:#d5d5d5;
+line-height:1.8;
+margin-bottom:45px;
+}
+
+.button{
+display:inline-block;
+padding:16px 38px;
+border:2px solid #D4AF37;
+color:white;
+text-decoration:none;
+border-radius:50px;
+font-size:18px;
+transition:.3s;
+}
+
+.button:hover{
+background:#D4AF37;
+color:black;
+}
+
+.footer{
+margin-top:60px;
+color:#999;
+font-size:16px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<img src="logo.png" alt="Yah Ventures">
+
+<h1>
+<span class="gold">YAH</span>
+VENTURES
+</h1>
+
+<div class="tagline">
+ONE VISION. MANY VENTURES.
+</div>
+
+<div class="description">
+Building businesses that create opportunities,
+innovation and lasting impact.
+</div>
+
+<a class="button" href="#">
+COMING SOON
+</a>
+
+<div class="footer">
+© 2026 Yah Ventures. All Rights Reserved.
+</div>
+
+</div>
+
+</body>
+</html>
